@@ -6,4 +6,4 @@ I picked this question because there seems to be a fine line of acceptability dr
 
 *The bar chart compares the responses to the question as well as the total number of people polled for the result.* 
 
-![This is a DataWrapper chart](Rudetorecline.png)
+![This is a DataWrapper chart](rude-to-recline.png)
